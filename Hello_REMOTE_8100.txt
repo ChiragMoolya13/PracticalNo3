@@ -1,7 +1,3 @@
 Hi my name is Chirag
 This file is created by Chirag
-<<<<<<< HEAD
-This file is modified by Akshit.
-=======
 This file is again modified by CHIRAG.
->>>>>>> branch2
